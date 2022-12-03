@@ -1,0 +1,7 @@
+---Covid Vaccined Persons List----
+
+NAME   |   NIC   |   DEATH REPORT NO  | ISSUED DATE
+
+
+| Enter person full name	| null	| D1020305	| 2001/12/10	
+| Enter person full name	| 66565656656	| ss	| 22	

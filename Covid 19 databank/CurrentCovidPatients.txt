@@ -1,0 +1,6 @@
+		---Current Covid 19 Patient List----
+
+		NIC   |   REPORT CODE  |  DATE 
+
+
+	| 200127503050		| A12		| 2022/2/3	

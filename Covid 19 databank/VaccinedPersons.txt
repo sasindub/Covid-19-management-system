@@ -1,0 +1,6 @@
+---Covid Vaccined Persons List----
+
+NIC   |   NAME   |  AGE  |  1st Vaccine  | 1st Vaccine | BOOSTER
+
+
+| 23232323323	| sas	| 545	

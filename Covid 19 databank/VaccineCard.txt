@@ -1,0 +1,11 @@
+			__VACCINE CARD__
+
+			Tele: 456987565
+			Full Name: K.J.M.Nirwan
+			Age: 50
+			1st Vaccine: Sinopharm
+			2nd Vaccine: Pfizer
+			K.J.M.Nirwan
+			Booster: AstraZeneca
+			E-mail: nirwan2@gmail.com
+			NIC: 200127503050

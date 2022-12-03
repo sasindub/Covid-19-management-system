@@ -1,0 +1,8 @@
+---Covid 19 Affected Persons List----
+
+NAME   	|   NIC   |	  AGE 	| FULL VACCINED 	| TELE
+
+
+| on full name	| 1020306204	| 10	| 51551551	| no	
+| Enter person full name	| 66565656656	| 80	| 1020302301	| no	
+| Sirimath	| 23232323323	| 30	| 774156985	| yes	
